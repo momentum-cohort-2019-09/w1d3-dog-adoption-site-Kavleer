@@ -1,0 +1,48 @@
+/* *{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+} */
+
+main{
+    margin-left: 2rem;
+}
+
+.banner{
+    background-color: rgb(8,61,119);
+    color:white;
+    /* font-family: Oswald; */
+    font-family: "Open Sans";
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    padding-left: 2rem;
+    width: 100%;
+
+}
+.catagories{
+    display: flex;
+    list-style-type: none;
+    font-weight: 2;
+}
+label{
+    display: block;
+}
+.dogs{
+    list-style-type: none;
+    display: flex;
+    width=300px;
+    font-weight: 3;
+
+} */
+.attributes{
+    display: flex;
+    list-style-type: none;
+    /* gradient to round out */
+    background-color: rgb(144,221,240);
+    
+}
+/* highlight color: rgb(144,221,240); */
+.footul{
+    display: flex;
+    list-style-type: none;
+}
